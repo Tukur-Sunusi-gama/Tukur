@@ -1,6 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T18:10:31.455Z" agent="Mozilla/5.0 (Linux; Android 8.0; GN5002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36" version="22.0.2" etag="cFUCEX2Ek4_Kcwt4Yv3L" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T18:25:31.775Z" agent="Mozilla/5.0 (Linux; Android 8.0; GN5002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36" etag="enogwLvQBml3W6xiETgK" version="22.0.2" type="github" pages="2">
   <diagram name="Page-1" id="Znrh5LPfg7LmYDPInWr-">
-    <mxGraphModel>
+    <mxGraphModel dx="726" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="452" width="291" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-2" value="STUDENT REGISTRATION SITE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="383" width="295" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="527" width="173" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="498" width="174" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="468" width="171" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oI-rfNmAa5YBub8sYrH9-9" target="oI-rfNmAa5YBub8sYrH9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="124" y="464" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="oI-rfNmAa5YBub8sYrH9-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39.62473347547973" y="688" as="sourcePoint" />
+            <mxPoint x="39.02800000000002" y="689.395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EWkhZtHSyREZPAswnhKo" name="Page-2">
+    <mxGraphModel dx="326" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
